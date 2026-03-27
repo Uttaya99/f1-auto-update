@@ -3,13 +3,15 @@
   "files": [
     {
       "name": "KZ AI Reactor F1.ex5",
-      "url": "https://raw.githubusercontent.com/Uttaya99/f1-auto-update/a6dfae25299251c49bb8d72139c219e59b1fa298/KZ%20AI%20Reactor%20F1.ex5",
-      "type": "ea"
+      "url": "https://drive.usercontent.google.com/u/0/uc?id=1WeyGbZ7VJFsYyfQxh-AkInTUj6TAjJG2&export=download",
+      "type": "ea",
+      "version": "5.4.4"
     },
     {
       "name": "F1 Radar.ex5",
-      "url": "https://raw.githubusercontent.com/Uttaya99/f1-auto-update/a6dfae25299251c49bb8d72139c219e59b1fa298/F1%20Radar.ex5",
-      "type": "indicator"
+      "url": "https://drive.usercontent.google.com/u/0/uc?id=1KtojESwRvkIKohtE84linWXCxgUfDWwY&export=download",
+      "type": "indicator",
+      "version": "5.4.4"
     }
   ]
 }
